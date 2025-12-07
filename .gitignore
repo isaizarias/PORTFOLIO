@@ -1,0 +1,6 @@
+# Arquivos PDF grandes
+*.pdf
+
+# Arquivos temporários
+*~
+.DS_Store
